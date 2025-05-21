@@ -1,5 +1,5 @@
 const cities = ["Rome", "London", "New York"];
-const apiKey = "1d31ec23891b136e16b100c6c04b3183";
+const apiKey = "";
 
 const container = document.querySelector(".card-container");
 
